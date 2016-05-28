@@ -1,0 +1,14 @@
+layout_spectrum: 0.4749103
+typography_spectrum: 0.5215053
+color:
+  saturation: 0.6290322
+  lightness: 0.3626045
+  brandStrength: 0.819632
+  rhythmicContrast: 0.7652329
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: 'Fork In Cheese Productions '
